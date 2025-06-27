@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-learn2game-dev-d379f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::668426476451:role/amplify-learn2game-dev-d379f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::668426476451:role/amplify-learn2game-dev-d379f-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-learn2game-dev-d379f-deployment",
+      "UnauthRoleName": "amplify-learn2game-dev-d379f-unauthRole",
+      "StackName": "amplify-learn2game-dev-d379f",
+      "StackId": "arn:aws:cloudformation:us-east-1:668426476451:stack/amplify-learn2game-dev-d379f/aa81ccf0-518c-11f0-8c9a-126c8ef4448f",
+      "AmplifyAppId": "d3t2ar75i9egea"
+    },
+    "categories": {
+      "function": {
+        "openaiProxy": {
+          "deploymentBucketName": "amplify-learn2game-dev-d379f-deployment",
+          "s3Key": "amplify-builds/openaiProxy-73427359454d7062634b-build.zip"
+        }
+      },
+      "api": {
+        "learn2gameapi": {}
+      }
+    }
+  }
+}
